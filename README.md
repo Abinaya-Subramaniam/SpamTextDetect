@@ -36,7 +36,7 @@ Ensure you have Python 3.7+ installed. It's recommended to use a virtual environ
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/spamdetect.git
+git clone https://github.com/Abinaya-Subramaniam/spamdetect.git
 cd spamdetect
 ```
 ### 2. Install Dependencies
